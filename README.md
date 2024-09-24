@@ -83,7 +83,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/drevora2018/drevora2018/output/snake.svg" alt="Snake animation" />
-
-###
