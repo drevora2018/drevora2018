@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=drevora2018.drevora2018&left_color=ghostwhite&right_color=aliceblue&left_text=Profile%20Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=drevora2018.drevora2018&left_color=black&right_color=blue&left_text=Profile%20Visitors"  />
 </div>
 
 ###
